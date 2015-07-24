@@ -45,12 +45,6 @@
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgIGRkCg==</text>
       </register>
-      <register name="/" type="4">
-        <text>args</text>
-      </register>
-      <register name="-" type="4">
-        <text encoding="base64">aW50IA==</text>
-      </register>
       <register name="3" type="4">
         <text encoding="base64">aW50IA==</text>
       </register>
@@ -81,6 +75,12 @@
       <register name="8" type="4">
         <text>[A, B]</text>
       </register>
+      <register name="/" type="4">
+        <text>args</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">aW50IA==</text>
+      </register>
     </registers>
     <search>
       <last-search>args</last-search>
@@ -90,8 +90,20 @@
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry>addTwoNums</entry>
+        <entry>main</entry>
+        <entry>Main</entry>
+        <entry>standard</entry>
+        <entry>process</entry>
+        <entry>ai</entry>
+        <entry>bldr</entry>
+        <entry>pi.next</entry>
+        <entry>args</entry>
+      </history-search>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
