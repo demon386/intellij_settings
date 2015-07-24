@@ -6,11 +6,8 @@
       <file name="/fragment.java" timestamp="1437737898779">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/projects/zhihu-crawler-scala/src/main/scala/Main.scala" timestamp="1437738356002">
-        <mark key="]" line="8" column="12" />
-        <mark key="^" line="8" column="12" />
-        <mark key="." line="8" column="12" />
-        <mark key="[" line="8" column="12" />
+      <file name="$USER_HOME$/Dropbox/projects/zhihu-crawler-scala/src/main/scala/Main.scala" timestamp="1437749526164">
+        <mark key="[" line="14" column="28" />
       </file>
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/StringContext.scala" timestamp="1437738511395">
         <mark key="'" line="146" column="14" />
@@ -45,6 +42,12 @@
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgIGRkCg==</text>
       </register>
+      <register name="/" type="4">
+        <text>args</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">aW50IA==</text>
+      </register>
       <register name="3" type="4">
         <text encoding="base64">aW50IA==</text>
       </register>
@@ -75,12 +78,6 @@
       <register name="8" type="4">
         <text>[A, B]</text>
       </register>
-      <register name="/" type="4">
-        <text>args</text>
-      </register>
-      <register name="-" type="4">
-        <text encoding="base64">aW50IA==</text>
-      </register>
     </registers>
     <search>
       <last-search>args</last-search>
@@ -90,20 +87,8 @@
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search>
-        <entry>addTwoNums</entry>
-        <entry>main</entry>
-        <entry>Main</entry>
-        <entry>standard</entry>
-        <entry>process</entry>
-        <entry>ai</entry>
-        <entry>bldr</entry>
-        <entry>pi.next</entry>
-        <entry>args</entry>
-      </history-search>
-      <history-cmd>
-        <entry>w</entry>
-      </history-cmd>
+      <history-search />
+      <history-cmd />
       <history-expr />
       <history-input />
     </history>
