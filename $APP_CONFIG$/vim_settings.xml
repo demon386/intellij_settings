@@ -2,16 +2,82 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="$USER_HOME$/projects/zhihu-crawler/project/src/main/scala/Main.scala" timestamp="1437736907752">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="2" column="21" filename="$USER_HOME$/projects/zhihu-crawler/project/src/main/scala/Main.scala" />
+      <jump line="8" column="0" filename="$USER_HOME$/projects/zhihu-crawler/project/src/main/scala/Main.scala" />
+      <jump line="9" column="0" filename="$USER_HOME$/projects/zhihu-crawler/project/src/main/scala/Main.scala" />
+      <jump line="6" column="0" filename="$USER_HOME$/projects/zhihu-crawler/project/src/main/scala/Main.scala" />
+      <jump line="4" column="12" filename="$USER_HOME$/projects/zhihu-crawler/project/src/main/scala/Main.scala" />
+      <jump line="1" column="6" filename="$USER_HOME$/projects/zhihu-crawler/project/src/main/scala/Main.scala" />
+      <jump line="7" column="2" filename="$USER_HOME$/projects/zhihu-crawler/project/src/main/scala/Main.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/zhihu-crawler/project/src/main/scala/Main.scala" />
+    </jumps>
+    <registers>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBkZWYgbXVsVHdvTnVtcygpCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">cGFja2FnZSBtYWluCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">cGFja2FnZSB6aGlodS1jcmF3bGVyLm1haW4KCg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>[A, B]</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="9" type="4">
+        <text>n</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBNYWlzOgo=</text>
+      </register>
+      <register name="/" type="4">
+        <text>Main</text>
+      </register>
+      <register name="-" type="4">
+        <text>[A, B]</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>Main</last-search>
+      <last-offset />
+      <last-pattern>Main</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry>addTwoNums</entry>
+        <entry>main</entry>
+        <entry>Main</entry>
+      </history-search>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
