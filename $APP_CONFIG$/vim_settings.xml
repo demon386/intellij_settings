@@ -6,11 +6,12 @@
       <file name="/fragment.java" timestamp="1437737898779">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/projects/zhihu-crawler-scala/src/main/scala/Main.scala" timestamp="1437738356002">
-        <mark key="]" line="8" column="12" />
-        <mark key="^" line="8" column="12" />
-        <mark key="." line="8" column="12" />
-        <mark key="[" line="8" column="12" />
+      <file name="$USER_HOME$/Dropbox/projects/zhihu-crawler-scala/src/main/scala/Main.scala" timestamp="1437739438852">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="4" column="19" />
+        <mark key="^" line="4" column="19" />
+        <mark key="." line="4" column="19" />
+        <mark key="[" line="4" column="14" />
       </file>
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/StringContext.scala" timestamp="1437738511395">
         <mark key="'" line="146" column="14" />
@@ -40,52 +41,58 @@
       <jump line="123" column="11" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/StringContext.scala" />
       <jump line="121" column="25" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/StringContext.scala" />
       <jump line="146" column="14" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/StringContext.scala" />
+      <jump line="11" column="0" filename="$USER_HOME$/Dropbox/projects/zhihu-crawler-scala/src/main/scala/Main.scala" />
+      <jump line="13" column="17" filename="$USER_HOME$/Dropbox/projects/zhihu-crawler-scala/src/main/scala/Main.scala" />
+      <jump line="21" column="0" filename="$USER_HOME$/Dropbox/projects/zhihu-crawler-scala/src/main/scala/Main.scala" />
+      <jump line="9" column="24" filename="$USER_HOME$/Dropbox/projects/zhihu-crawler-scala/src/main/scala/Main.scala" />
+      <jump line="15" column="10" filename="$USER_HOME$/Dropbox/projects/zhihu-crawler-scala/src/main/scala/Main.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/projects/zhihu-crawler-scala/src/main/scala/Main.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRkCg==</text>
-      </register>
       <register name="3" type="4">
-        <text encoding="base64">aW50IA==</text>
+        <text encoding="base64">OiBVbml0ID0g</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZhbCByZXN1bHQgPSBhZGRUd29OdW1zKDIsIDMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIkhlbGxvIHdvcmxkIikK</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocyJIZWxsbyB3b3JsZCAke3Jlc3VsdH0iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRkCg==</text>
+        <text encoding="base64">ICAgIHZhbCByZXN1bHQgPSBhZGRUd29OdW1zKDIsIDMpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBkZWYgbXVsVHdvTnVtcygpCg==</text>
+      <register name="6" type="4">
+        <text>breakabl</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>breakable</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>brea</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGFja2FnZSB6aGlodS1jcmF3bGVyLm1haW4KCg==</text>
+        <text encoding="base64">ICAgIGRkCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>[A, B]</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBkZWYgYWRkVHdvTnVtcyhhOiBJbnQsIGI6IEludCkgPSBhICsgYgo=</text>
       </register>
       <register name="/" type="4">
-        <text>args</text>
+        <text>new</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW50IA==</text>
+        <text encoding="base64">OiBVbml0ID0g</text>
       </register>
     </registers>
     <search>
-      <last-search>args</last-search>
+      <last-search>new</last-search>
       <last-offset />
-      <last-pattern>args</last-pattern>
+      <last-pattern>new</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -100,6 +107,11 @@
         <entry>bldr</entry>
         <entry>pi.next</entry>
         <entry>args</entry>
+        <entry>catch</entry>
+        <entry>throwable</entry>
+        <entry>Trhwo</entry>
+        <entry>case</entry>
+        <entry>new</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -116,6 +128,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
