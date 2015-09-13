@@ -6,12 +6,15 @@
       <file name="/fragment.java" timestamp="1437737898779">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/projects/zhihu-crawler-scala/src/main/scala/Main.scala" timestamp="1437739438852">
-        <mark key="'" line="0" column="0" />
-        <mark key="]" line="4" column="19" />
-        <mark key="^" line="4" column="19" />
-        <mark key="." line="4" column="19" />
-        <mark key="[" line="4" column="14" />
+      <file name="$USER_HOME$/Dropbox/projects/zhihu-crawler-scala/build.sbt" timestamp="1437787998461">
+        <mark key="'" line="5" column="3" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/projects/zhihu-crawler-scala/src/main/scala/Main.scala" timestamp="1437787645329">
+        <mark key="'" line="18" column="20" />
+        <mark key="]" line="5" column="37" />
+        <mark key="^" line="5" column="37" />
+        <mark key="." line="5" column="37" />
+        <mark key="[" line="5" column="31" />
       </file>
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/StringContext.scala" timestamp="1437738511395">
         <mark key="'" line="146" column="14" />
@@ -41,78 +44,59 @@
       <jump line="123" column="11" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/StringContext.scala" />
       <jump line="121" column="25" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/StringContext.scala" />
       <jump line="146" column="14" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/StringContext.scala" />
-      <jump line="11" column="0" filename="$USER_HOME$/Dropbox/projects/zhihu-crawler-scala/src/main/scala/Main.scala" />
-      <jump line="13" column="17" filename="$USER_HOME$/Dropbox/projects/zhihu-crawler-scala/src/main/scala/Main.scala" />
-      <jump line="21" column="0" filename="$USER_HOME$/Dropbox/projects/zhihu-crawler-scala/src/main/scala/Main.scala" />
-      <jump line="9" column="24" filename="$USER_HOME$/Dropbox/projects/zhihu-crawler-scala/src/main/scala/Main.scala" />
-      <jump line="15" column="10" filename="$USER_HOME$/Dropbox/projects/zhihu-crawler-scala/src/main/scala/Main.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/projects/zhihu-crawler-scala/src/main/scala/Main.scala" />
+      <jump line="16" column="20" filename="$USER_HOME$/Dropbox/projects/zhihu-crawler-scala/src/main/scala/Main.scala" />
+      <jump line="5" column="3" filename="$USER_HOME$/Dropbox/projects/zhihu-crawler-scala/build.sbt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCByZXN1bHQgPSBhZGRUd29OdW1zKDIsIDMpCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCB1bmRlcmx5aW5nID0gbmV3IE1vbmcoaG9zdCwgcG9yKQo=</text>
+      </register>
+      <register name="/" type="4">
+        <text>args</text>
+      </register>
+      <register name="-" type="4">
+        <text>t</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">OiBVbml0ID0g</text>
+        <text>spe</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocyJIZWxsbyB3b3JsZCAke3Jlc3VsdH0iKQo=</text>
+      <register name="2" type="4">
+        <text>t</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCByZXN1bHQgPSBhZGRUd29OdW1zKDIsIDMpCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCB1bmRlcmx5aW5nID0gbmV3IE1vbmcoaG9zdCwgcG9yKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">aW50IA==</text>
       </register>
-      <register name="6" type="4">
-        <text>breakabl</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4oIkhlbGxvIHdvcmxkIikK</text>
       </register>
-      <register name="5" type="4">
-        <text>breakable</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRkCg==</text>
       </register>
       <register name="4" type="4">
-        <text>brea</text>
+        <text>pln</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgYWRkVHdvTnVtcyhhOiBJbnQsIGI6IEludCkgPSBhICsgYgo=</text>
-      </register>
-      <register name="/" type="4">
-        <text>new</text>
-      </register>
-      <register name="-" type="4">
-        <text encoding="base64">OiBVbml0ID0g</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>new</last-search>
+      <last-search>args</last-search>
       <last-offset />
-      <last-pattern>new</last-pattern>
+      <last-pattern>args</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search>
-        <entry>addTwoNums</entry>
-        <entry>main</entry>
-        <entry>Main</entry>
-        <entry>standard</entry>
-        <entry>process</entry>
-        <entry>ai</entry>
-        <entry>bldr</entry>
-        <entry>pi.next</entry>
-        <entry>args</entry>
-        <entry>catch</entry>
-        <entry>throwable</entry>
-        <entry>Trhwo</entry>
-        <entry>case</entry>
-        <entry>new</entry>
-      </history-search>
+      <history-search />
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
