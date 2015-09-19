@@ -6,15 +6,15 @@
       <file name="/fragment.java" timestamp="1437737898779">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/projects/zhihu-crawler-scala/build.sbt" timestamp="1437787998461">
-        <mark key="'" line="5" column="3" />
-      </file>
       <file name="$USER_HOME$/Dropbox/projects/zhihu-crawler-scala/src/main/scala/Main.scala" timestamp="1437787645329">
         <mark key="'" line="18" column="20" />
         <mark key="]" line="5" column="37" />
         <mark key="^" line="5" column="37" />
         <mark key="." line="5" column="37" />
         <mark key="[" line="5" column="31" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/projects/zhihu-crawler-scala/build.sbt" timestamp="1437787998461">
+        <mark key="'" line="5" column="3" />
       </file>
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/StringContext.scala" timestamp="1437738511395">
         <mark key="'" line="146" column="14" />
