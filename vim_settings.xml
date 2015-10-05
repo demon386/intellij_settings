@@ -49,11 +49,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/projects/zhihu-crawler-scala/src/main/scala/Main.scala" />
     </jumps>
     <registers>
-      <register name="3" type="4">
-        <text encoding="base64">OiBVbml0ID0g</text>
-      </register>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgIHZhbCByZXN1bHQgPSBhZGRUd29OdW1zKDIsIDMpCg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">OiBVbml0ID0g</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHByaW50bG4ocyJIZWxsbyB3b3JsZCAke3Jlc3VsdH0iKQo=</text>
