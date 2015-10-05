@@ -13,22 +13,14 @@
         <mark key="." line="4" column="19" />
         <mark key="[" line="4" column="14" />
       </file>
-      <file name="$USER_HOME$/Dropbox/projects/bitpress/src/bitpress/core.clj" timestamp="1444031405395">
-        <mark key="'" line="6" column="3" />
-        <mark key="]" line="5" column="4" />
-        <mark key="^" line="5" column="4" />
-        <mark key="." line="5" column="4" />
-        <mark key="[" line="5" column="5" />
+      <file name="$USER_HOME$/Dropbox/projects/bitpress/src/bitpress/core.clj" timestamp="1444035328422">
+        <mark key="'" line="6" column="26" />
+        <mark key="]" line="3" column="50" />
+        <mark key="." line="3" column="50" />
+        <mark key="[" line="3" column="50" />
       </file>
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/StringContext.scala" timestamp="1437738511395">
         <mark key="'" line="146" column="14" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/projects/bitpress/project.clj" timestamp="1444031105869">
-        <mark key="'" line="2" column="0" />
-        <mark key="]" line="7" column="55" />
-        <mark key="^" line="7" column="55" />
-        <mark key="." line="7" column="55" />
-        <mark key="[" line="7" column="36" />
       </file>
       <file name="$USER_HOME$/projects/zhihu-crawler/project/src/main/scala/Main.scala" timestamp="1437736907752">
         <mark key="'" line="0" column="0" />
@@ -36,6 +28,13 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/projects/bitpress/project.clj" timestamp="1444031105869">
+        <mark key="'" line="2" column="0" />
+        <mark key="]" line="7" column="55" />
+        <mark key="^" line="7" column="55" />
+        <mark key="." line="7" column="55" />
+        <mark key="[" line="7" column="36" />
       </file>
     </filemarks>
     <jumps>
@@ -63,56 +62,62 @@
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/projects/zhihu-crawler-scala/src/main/scala/Main.scala" />
       <jump line="3" column="7" filename="$USER_HOME$/Dropbox/projects/bitpress/project.clj" />
       <jump line="2" column="0" filename="$USER_HOME$/Dropbox/projects/bitpress/project.clj" />
-      <jump line="6" column="3" filename="$USER_HOME$/Dropbox/projects/bitpress/src/bitpress/core.clj" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/projects/bitpress/src/bitpress/core.clj" />
+      <jump line="2" column="50" filename="$USER_HOME$/Dropbox/projects/bitpress/src/bitpress/core.clj" />
+      <jump line="18" column="6" filename="$USER_HOME$/Dropbox/projects/bitpress/src/bitpress/core.clj" />
+      <jump line="19" column="25" filename="$USER_HOME$/Dropbox/projects/bitpress/src/bitpress/core.clj" />
+      <jump line="20" column="25" filename="$USER_HOME$/Dropbox/projects/bitpress/src/bitpress/core.clj" />
+      <jump line="15" column="13" filename="$USER_HOME$/Dropbox/projects/bitpress/src/bitpress/core.clj" />
+      <jump line="6" column="26" filename="$USER_HOME$/Dropbox/projects/bitpress/src/bitpress/core.clj" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgdGljICguZ2Ugc2VydmljZSkgCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">cmVxdWlyZSA=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">cmVxdWlyZSA=</text>
+        <text>[com.xeiam.xchange.dto.marketdata.Ticker]</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="4">
         <text>com.xeiam.xchange/xchange-core</text>
       </register>
       <register name="7" type="4">
-        <text>com</text>
+        <text encoding="base64">cmVxdWlyZSA=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">Y29yZSA=</text>
+        <text encoding="base64">cmVxdWlyZSA=</text>
       </register>
-      <register name="5" type="4">
-        <text>-</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>xchange</text>
+        <text>getTick</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
       <register name="9" type="4">
-        <text>0</text>
+        <text>-</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>xchange</text>
       </register>
       <register name="/" type="4">
-        <text>dep</text>
+        <text>service</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmVxdWlyZSA=</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
-      <last-search>dep</last-search>
+      <last-search>service</last-search>
       <last-offset />
-      <last-pattern>dep</last-pattern>
+      <last-pattern>service</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -133,9 +138,12 @@
         <entry>case</entry>
         <entry>new</entry>
         <entry>dep</entry>
+        <entry>Ticker</entry>
+        <entry>service</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
