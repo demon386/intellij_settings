@@ -13,8 +13,22 @@
         <mark key="." line="4" column="19" />
         <mark key="[" line="4" column="14" />
       </file>
+      <file name="$USER_HOME$/Dropbox/projects/bitpress/src/bitpress/core.clj" timestamp="1444031405395">
+        <mark key="'" line="6" column="3" />
+        <mark key="]" line="5" column="4" />
+        <mark key="^" line="5" column="4" />
+        <mark key="." line="5" column="4" />
+        <mark key="[" line="5" column="5" />
+      </file>
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/StringContext.scala" timestamp="1437738511395">
         <mark key="'" line="146" column="14" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/projects/bitpress/project.clj" timestamp="1444031105869">
+        <mark key="'" line="2" column="0" />
+        <mark key="]" line="7" column="55" />
+        <mark key="^" line="7" column="55" />
+        <mark key="." line="7" column="55" />
+        <mark key="[" line="7" column="36" />
       </file>
       <file name="$USER_HOME$/projects/zhihu-crawler/project/src/main/scala/Main.scala" timestamp="1437736907752">
         <mark key="'" line="0" column="0" />
@@ -47,52 +61,58 @@
       <jump line="9" column="24" filename="$USER_HOME$/Dropbox/projects/zhihu-crawler-scala/src/main/scala/Main.scala" />
       <jump line="15" column="10" filename="$USER_HOME$/Dropbox/projects/zhihu-crawler-scala/src/main/scala/Main.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/projects/zhihu-crawler-scala/src/main/scala/Main.scala" />
+      <jump line="3" column="7" filename="$USER_HOME$/Dropbox/projects/bitpress/project.clj" />
+      <jump line="2" column="0" filename="$USER_HOME$/Dropbox/projects/bitpress/project.clj" />
+      <jump line="6" column="3" filename="$USER_HOME$/Dropbox/projects/bitpress/src/bitpress/core.clj" />
     </jumps>
     <registers>
-      <register name="3" type="4">
-        <text encoding="base64">OiBVbml0ID0g</text>
-      </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCByZXN1bHQgPSBhZGRUd29OdW1zKDIsIDMpCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocyJIZWxsbyB3b3JsZCAke3Jlc3VsdH0iKQo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCByZXN1bHQgPSBhZGRUd29OdW1zKDIsIDMpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="4">
+        <text encoding="base64">cmVxdWlyZSA=</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">cmVxdWlyZSA=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="0" type="4">
+        <text>com.xeiam.xchange/xchange-core</text>
+      </register>
+      <register name="7" type="4">
+        <text>com</text>
+      </register>
       <register name="6" type="4">
-        <text>breakabl</text>
+        <text encoding="base64">Y29yZSA=</text>
       </register>
       <register name="5" type="4">
-        <text>breakable</text>
+        <text>-</text>
       </register>
       <register name="4" type="4">
-        <text>brea</text>
+        <text>xchange</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGRkCg==</text>
+      <register name="9" type="4">
+        <text>0</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgYWRkVHdvTnVtcyhhOiBJbnQsIGI6IEludCkgPSBhICsgYgo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>new</text>
+        <text>dep</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">OiBVbml0ID0g</text>
+        <text encoding="base64">cmVxdWlyZSA=</text>
       </register>
     </registers>
     <search>
-      <last-search>new</last-search>
+      <last-search>dep</last-search>
       <last-offset />
-      <last-pattern>new</last-pattern>
+      <last-pattern>dep</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -112,6 +132,7 @@
         <entry>Trhwo</entry>
         <entry>case</entry>
         <entry>new</entry>
+        <entry>dep</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
