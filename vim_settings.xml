@@ -10,6 +10,10 @@
         <mark key="." line="5" column="37" />
         <mark key="[" line="5" column="31" />
       </file>
+      <file name="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/polling/HuobiAccountServiceRaw.java" timestamp="1444214849320" />
+      <file name="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/polling/HuobiMarketDataService.java" timestamp="1444214629438">
+        <mark key="'" line="25" column="26" />
+      </file>
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/StringContext.scala" timestamp="1437738511395">
         <mark key="'" line="146" column="14" />
       </file>
@@ -26,16 +30,21 @@
       <file name="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/HuobiAdapters.java" timestamp="1444206880302">
         <mark key="'" line="54" column="58" />
       </file>
-      <file name="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/polling/HuobiMarketDataServiceRaw.java" timestamp="1444212966270">
-        <mark key="'" line="0" column="40" />
-        <mark key="]" line="11" column="36" />
-        <mark key="[" line="11" column="21" />
+      <file name="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/polling/HuobiMarketDataServiceRaw.java" timestamp="1444214590887">
+        <mark key="'" line="10" column="0" />
+        <mark key="]" line="24" column="19" />
+        <mark key="^" line="24" column="19" />
+        <mark key="." line="24" column="19" />
+        <mark key="[" line="24" column="20" />
       </file>
       <file name="$USER_HOME$/playground/XChange/xchange-core/src/main/java/com/xeiam/xchange/Exchange.java" timestamp="1444206900388">
         <mark key="'" line="75" column="3" />
       </file>
-      <file name="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/BitVc.java" timestamp="1444212836154">
-        <mark key="'" line="15" column="51" />
+      <file name="$USER_HOME$/playground/XChange/xchange-core/src/main/java/com/xeiam/xchange/currency/CurrencyPair.java" timestamp="1444214632574">
+        <mark key="'" line="176" column="12" />
+      </file>
+      <file name="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/BitVc.java" timestamp="1444214656686">
+        <mark key="'" line="22" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1437737898779">
         <mark key="[" line="0" column="0" />
@@ -49,8 +58,10 @@
       <file name="$USER_HOME$/playground/XChange/xchange-core/src/main/java/com/xeiam/xchange/ExchangeSpecification.java" timestamp="1444207032430">
         <mark key="'" line="181" column="14" />
       </file>
-      <file name="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/HuobiExchange.java" timestamp="1444207112432">
-        <mark key="'" line="19" column="113" />
+      <file name="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/HuobiExchange.java" timestamp="1444214254378">
+        <mark key="'" line="27" column="29" />
+        <mark key="]" line="91" column="98" />
+        <mark key="[" line="91" column="63" />
       </file>
       <file name="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/dto/account/BitVcAccountInfo.java" timestamp="1444206959476">
         <mark key="'" line="19" column="14" />
@@ -60,24 +71,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="21" filename="$USER_HOME$/projects/zhihu-crawler/project/src/main/scala/Main.scala" />
-      <jump line="8" column="0" filename="$USER_HOME$/projects/zhihu-crawler/project/src/main/scala/Main.scala" />
-      <jump line="9" column="0" filename="$USER_HOME$/projects/zhihu-crawler/project/src/main/scala/Main.scala" />
-      <jump line="6" column="0" filename="$USER_HOME$/projects/zhihu-crawler/project/src/main/scala/Main.scala" />
-      <jump line="4" column="12" filename="$USER_HOME$/projects/zhihu-crawler/project/src/main/scala/Main.scala" />
-      <jump line="1" column="6" filename="$USER_HOME$/projects/zhihu-crawler/project/src/main/scala/Main.scala" />
-      <jump line="7" column="2" filename="$USER_HOME$/projects/zhihu-crawler/project/src/main/scala/Main.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/zhihu-crawler/project/src/main/scala/Main.scala" />
-      <jump line="82" column="3" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/StringContext.scala" />
-      <jump line="94" column="31" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/StringContext.scala" />
-      <jump line="118" column="54" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/StringContext.scala" />
-      <jump line="119" column="17" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/StringContext.scala" />
-      <jump line="122" column="30" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/StringContext.scala" />
-      <jump line="123" column="11" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/StringContext.scala" />
-      <jump line="121" column="25" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/StringContext.scala" />
-      <jump line="146" column="14" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/StringContext.scala" />
-      <jump line="16" column="20" filename="$USER_HOME$/Dropbox/projects/zhihu-crawler-scala/src/main/scala/Main.scala" />
-      <jump line="5" column="3" filename="$USER_HOME$/Dropbox/projects/zhihu-crawler-scala/build.sbt" />
       <jump line="154" column="34" filename="$USER_HOME$/playground/XChange/xchange-core/src/main/java/com/xeiam/xchange/BaseExchange.java" />
       <jump line="23" column="0" filename="$USER_HOME$/playground/XChange/xchange-core/src/main/java/com/xeiam/xchange/BaseExchange.java" />
       <jump line="26" column="34" filename="$USER_HOME$/playground/XChange/xchange-core/src/main/java/com/xeiam/xchange/BaseExchange.java" />
@@ -133,11 +126,7 @@
       <jump line="85" column="9" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/HuobiExchange.java" />
       <jump line="111" column="0" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/HuobiExchange.java" />
       <jump line="91" column="43" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/HuobiExchange.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/HuobiExchange.java" />
-      <jump line="27" column="29" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/HuobiExchange.java" />
       <jump line="19" column="113" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/HuobiExchange.java" />
-      <jump line="27" column="54" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/polling/HuobiMarketDataServiceRaw.java" />
-      <jump line="26" column="54" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/polling/HuobiMarketDataServiceRaw.java" />
       <jump line="25" column="17" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/BitVc.java" />
       <jump line="29" column="24" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/BitVc.java" />
       <jump line="15" column="51" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/BitVc.java" />
@@ -145,35 +134,71 @@
       <jump line="29" column="0" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/polling/HuobiMarketDataServiceRaw.java" />
       <jump line="14" column="0" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/polling/HuobiMarketDataServiceRaw.java" />
       <jump line="12" column="0" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/polling/HuobiMarketDataServiceRaw.java" />
-      <jump line="0" column="40" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/polling/HuobiMarketDataServiceRaw.java" />
+      <jump line="98" column="2" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/HuobiExchange.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/HuobiExchange.java" />
+      <jump line="5" column="59" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/HuobiExchange.java" />
+      <jump line="6" column="69" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/HuobiExchange.java" />
+      <jump line="7" column="57" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/HuobiExchange.java" />
+      <jump line="8" column="59" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/HuobiExchange.java" />
+      <jump line="9" column="59" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/HuobiExchange.java" />
+      <jump line="10" column="62" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/HuobiExchange.java" />
+      <jump line="11" column="57" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/HuobiExchange.java" />
+      <jump line="12" column="71" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/HuobiExchange.java" />
+      <jump line="14" column="60" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/HuobiExchange.java" />
+      <jump line="45" column="59" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/HuobiExchange.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/polling/HuobiMarketDataService.java" />
+      <jump line="23" column="0" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/polling/HuobiMarketDataService.java" />
+      <jump line="27" column="37" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/polling/HuobiMarketDataService.java" />
+      <jump line="39" column="37" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/polling/HuobiMarketDataService.java" />
+      <jump line="33" column="40" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/polling/HuobiMarketDataService.java" />
+      <jump line="13" column="47" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/polling/HuobiMarketDataServiceRaw.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/polling/HuobiMarketDataServiceRaw.java" />
+      <jump line="22" column="9" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/polling/HuobiMarketDataServiceRaw.java" />
+      <jump line="15" column="22" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/polling/HuobiMarketDataServiceRaw.java" />
+      <jump line="47" column="11" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/polling/HuobiMarketDataServiceRaw.java" />
+      <jump line="42" column="11" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/polling/HuobiMarketDataServiceRaw.java" />
+      <jump line="37" column="11" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/polling/HuobiMarketDataServiceRaw.java" />
+      <jump line="32" column="11" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/polling/HuobiMarketDataServiceRaw.java" />
+      <jump line="30" column="43" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/polling/HuobiMarketDataServiceRaw.java" />
+      <jump line="26" column="28" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/polling/HuobiMarketDataServiceRaw.java" />
+      <jump line="27" column="29" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/HuobiExchange.java" />
+      <jump line="19" column="3" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/polling/HuobiMarketDataServiceRaw.java" />
+      <jump line="27" column="12" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/polling/HuobiMarketDataServiceRaw.java" />
+      <jump line="10" column="0" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/polling/HuobiMarketDataServiceRaw.java" />
+      <jump line="31" column="25" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/polling/HuobiMarketDataService.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/polling/HuobiMarketDataService.java" />
+      <jump line="25" column="26" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/polling/HuobiMarketDataService.java" />
+      <jump line="166" column="22" filename="$USER_HOME$/playground/XChange/xchange-core/src/main/java/com/xeiam/xchange/currency/CurrencyPair.java" />
+      <jump line="176" column="12" filename="$USER_HOME$/playground/XChange/xchange-core/src/main/java/com/xeiam/xchange/currency/CurrencyPair.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/BitVc.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>RestProxyFactory</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>spe</text>
-      </register>
-      <register name="2" type="4">
         <text>t</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICBwcml2YXRlIHZhbCB1bmRlcmx5aW5nID0gbmV3IE1vbmcoaG9zdCwgcG9yKQo=</text>
       </register>
+      <register name="1" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="0" type="4">
-        <text>RestProxyFactory</text>
+        <text>http://market.huobi.com/staticmarket</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">aW50IA==</text>
-      </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHByaW50bG4oIkhlbGxvIHdvcmxkIikK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGRkCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>pln</text>
+      </register>
+      <register name="4" type="4">
+        <text>spe</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -181,45 +206,45 @@
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">aW50IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Polling</text>
+        <text>ticker</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
       </register>
     </registers>
     <search>
-      <last-search>Polling</last-search>
+      <last-search>ticker</last-search>
       <last-offset />
-      <last-pattern>Polling</last-pattern>
+      <last-pattern>ticker</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>apply</entry>
-        <entry>addTicker</entry>
-        <entry>stream</entry>
-        <entry>getSTream</entry>
-        <entry>Streaming</entry>
-        <entry>Huo</entry>
-        <entry>AccountInfo</entry>
-        <entry>setExchange</entry>
-        <entry>NOT IMPLE</entry>
-        <entry>Future</entry>
-        <entry>setPlainText</entry>
-        <entry>HUOB_MARKET</entry>
-        <entry>HUOBI_MARKET</entry>
-        <entry encoding="base64">XDxiYXNlVXJsXD4=</entry>
-        <entry>Rest</entry>
-        <entry>Ticker</entry>
+        <entry>baseUrl</entry>
+        <entry>getBitVc</entry>
+        <entry>bitc</entry>
+        <entry encoding="base64">XDxIdW9iaU1hcmtldERhdGFTZXJ2aWNlUmF3XD4=</entry>
+        <entry>bitvc</entry>
         <entry>getTicker</entry>
-        <entry>Huobi</entry>
-        <entry>pol</entry>
-        <entry>Polling</entry>
+        <entry>symbol</entry>
+        <entry>baseurl</entry>
+        <entry encoding="base64">XDxTdHJpbmdcPg==</entry>
+        <entry encoding="base64">XDxIVU9CSV9NQVJLRVRfREFUQVw+</entry>
+        <entry>BitVc</entry>
+        <entry>Reset</entry>
+        <entry>Rest</entry>
+        <entry>getBitV</entry>
+        <entry>Bic</entry>
+        <entry>ada</entry>
+        <entry>baseSymbol</entry>
+        <entry>baes</entry>
+        <entry>baseSymbo</entry>
+        <entry>ticker</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
