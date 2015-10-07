@@ -6,6 +6,9 @@
       <file name="/fragment.java" timestamp="1437737898779">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/projects/zhihu-crawler-scala/build.sbt" timestamp="1437787998461">
+        <mark key="'" line="5" column="3" />
+      </file>
       <file name="$USER_HOME$/Dropbox/projects/zhihu-crawler-scala/src/main/scala/Main.scala" timestamp="1437787645329">
         <mark key="'" line="18" column="20" />
         <mark key="]" line="5" column="37" />
@@ -13,18 +16,11 @@
         <mark key="." line="5" column="37" />
         <mark key="[" line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/Dropbox/projects/zhihu-crawler-scala/build.sbt" timestamp="1437787998461">
-        <mark key="'" line="5" column="3" />
-      </file>
       <file name="$USER_HOME$/playground/XChange/xchange-core/src/main/java/com/xeiam/xchange/ExchangeFactory.java" timestamp="1444194342546">
         <mark key="'" line="90" column="36" />
       </file>
-      <file name="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/HuobiExchange.java" timestamp="1444194173297" />
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/StringContext.scala" timestamp="1437738511395">
         <mark key="'" line="146" column="14" />
-      </file>
-      <file name="$USER_HOME$/playground/XChange/xchange-core/src/main/java/com/xeiam/xchange/BaseExchange.java" timestamp="1444194566027">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/zhihu-crawler/project/src/main/scala/Main.scala" timestamp="1437736907752">
         <mark key="'" line="0" column="0" />
@@ -32,6 +28,9 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/playground/XChange/xchange-core/src/main/java/com/xeiam/xchange/BaseExchange.java" timestamp="1444194566027">
+        <mark key="'" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -81,11 +80,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/playground/XChange/xchange-core/src/main/java/com/xeiam/xchange/BaseExchange.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCB1bmRlcmx5aW5nID0gbmV3IE1vbmcoaG9zdCwgcG9yKQo=</text>
-      </register>
       <register name="3" type="4">
         <text>spe</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwcml2YXRlIHZhbCB1bmRlcmx5aW5nID0gbmV3IE1vbmcoaG9zdCwgcG9yKQo=</text>
       </register>
       <register name="2" type="4">
         <text>t</text>
