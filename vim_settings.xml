@@ -138,11 +138,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/polling/HuobiMarketDataServiceRaw.java" />
     </jumps>
     <registers>
-      <register name="3" type="4">
-        <text>spe</text>
-      </register>
       <register name="&quot;" type="4">
         <text>RestProxyFactory</text>
+      </register>
+      <register name="3" type="4">
+        <text>spe</text>
       </register>
       <register name="2" type="4">
         <text>t</text>
