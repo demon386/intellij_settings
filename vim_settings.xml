@@ -22,19 +22,19 @@
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/StringContext.scala" timestamp="1437738511395">
         <mark key="'" line="146" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/zhihu-crawler/project/src/main/scala/Main.scala" timestamp="1437736907752">
-        <mark key="'" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/projects/bitpress/project.clj" timestamp="1444031105869">
         <mark key="'" line="2" column="0" />
         <mark key="]" line="7" column="55" />
         <mark key="^" line="7" column="55" />
         <mark key="." line="7" column="55" />
         <mark key="[" line="7" column="36" />
+      </file>
+      <file name="$USER_HOME$/projects/zhihu-crawler/project/src/main/scala/Main.scala" timestamp="1437736907752">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -71,11 +71,11 @@
       <jump line="6" column="26" filename="$USER_HOME$/Dropbox/projects/bitpress/src/bitpress/core.clj" />
     </jumps>
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGljICguZ2Ugc2VydmljZSkgCg==</text>
-      </register>
       <register name="&quot;" type="4">
         <text encoding="base64">IA==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgdGljICguZ2Ugc2VydmljZSkgCg==</text>
       </register>
       <register name="2" type="4">
         <text>[com.xeiam.xchange.dto.marketdata.Ticker]</text>
