@@ -45,14 +45,14 @@
       <file name="$USER_HOME$/playground/XChange/xchange-core/src/main/java/com/xeiam/xchange/Exchange.java" timestamp="1444206900388">
         <mark key="'" line="75" column="3" />
       </file>
+      <file name="/fragment.java" timestamp="1437737898779">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/playground/XChange/xchange-core/src/main/java/com/xeiam/xchange/currency/CurrencyPair.java" timestamp="1444214632574">
         <mark key="'" line="176" column="12" />
       </file>
       <file name="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/BitVc.java" timestamp="1444214656686">
         <mark key="'" line="22" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1437737898779">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/streaming/HuobiSocketClient.java" timestamp="1444215790227">
         <mark key="'" line="41" column="9" />
@@ -63,13 +63,13 @@
       <file name="$USER_HOME$/playground/XChange/xchange-core/src/main/java/com/xeiam/xchange/ExchangeFactory.java" timestamp="1444194342546">
         <mark key="'" line="90" column="36" />
       </file>
+      <file name="$USER_HOME$/playground/XChange/xchange-core/src/main/java/com/xeiam/xchange/ExchangeSpecification.java" timestamp="1444207032430">
+        <mark key="'" line="181" column="14" />
+      </file>
       <file name="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/HuobiExchange.java" timestamp="1444214254378">
         <mark key="'" line="27" column="29" />
         <mark key="]" line="91" column="98" />
         <mark key="[" line="91" column="63" />
-      </file>
-      <file name="$USER_HOME$/playground/XChange/xchange-core/src/main/java/com/xeiam/xchange/ExchangeSpecification.java" timestamp="1444207032430">
-        <mark key="'" line="181" column="14" />
       </file>
       <file name="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/dto/account/BitVcAccountInfo.java" timestamp="1444206959476">
         <mark key="'" line="19" column="14" />
@@ -181,11 +181,11 @@
       <jump line="104" column="13" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/streaming/HuobiStreamingExchangeService.java" />
     </jumps>
     <registers>
-      <register name="3" type="4">
-        <text>t</text>
-      </register>
       <register name="&quot;" type="4">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>t</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICBwcml2YXRlIHZhbCB1bmRlcmx5aW5nID0gbmV3IE1vbmcoaG9zdCwgcG9yKQo=</text>
