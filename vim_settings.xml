@@ -2,14 +2,38 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/streaming/HuobiExchangeStreamingConfiguration.java" timestamp="1445703970279">
+        <mark key="'" line="9" column="22" />
+      </file>
+      <file name="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/streaming/HuobiSocket.java" timestamp="1445703974989">
+        <mark key="'" line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/streaming/HuobiStreamingExchangeService.java" timestamp="1445703954955" />
+    </filemarks>
+    <jumps>
+      <jump line="9" column="22" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/streaming/HuobiExchangeStreamingConfiguration.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/streaming/HuobiSocket.java" />
+    </jumps>
+    <registers>
+      <register name="/" type="4">
+        <text>web</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>web</last-search>
+      <last-offset />
+      <last-pattern>web</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search>
+        <entry>weboskcet</entry>
+        <entry>websocket</entry>
+        <entry>web</entry>
+      </history-search>
+    </history>
     <shortcut-conflicts />
     <editor>
       <key-repeat enabled="false" />
