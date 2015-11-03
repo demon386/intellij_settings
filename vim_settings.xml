@@ -6,18 +6,18 @@
       <file name="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/streaming/HuobiSocketClient.java" timestamp="1445704035417">
         <mark key="'" line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/streaming/HuobiExchangeStreamingConfiguration.java" timestamp="1445703970279">
-        <mark key="'" line="9" column="22" />
+      <file name="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/streaming/HuobiStreamingExchangeService.java" timestamp="1445704150640">
+        <mark key="'" line="26" column="13" />
+        <mark key="[" line="35" column="86" />
+        <mark key="]" line="35" column="101" />
+        <mark key="^" line="35" column="86" />
+        <mark key="." line="35" column="86" />
       </file>
       <file name="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/streaming/HuobiSocket.java" timestamp="1445703974989">
         <mark key="'" line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/streaming/HuobiStreamingExchangeService.java" timestamp="1445704150640">
-        <mark key="'" line="26" column="13" />
-        <mark key="]" line="35" column="101" />
-        <mark key="^" line="35" column="86" />
-        <mark key="." line="35" column="86" />
-        <mark key="[" line="35" column="86" />
+      <file name="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/streaming/HuobiExchangeStreamingConfiguration.java" timestamp="1445703970279">
+        <mark key="'" line="9" column="22" />
       </file>
     </filemarks>
     <jumps>
@@ -39,10 +39,10 @@
       <jump line="26" column="13" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/streaming/HuobiStreamingExchangeService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
+      <register name="0" type="4">
         <text>Websocket_SslUri</text>
       </register>
-      <register name="0" type="4">
+      <register name="&quot;" type="4">
         <text>Websocket_SslUri</text>
       </register>
       <register name="/" type="4">
