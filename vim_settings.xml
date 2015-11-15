@@ -6,8 +6,11 @@
       <file name="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/streaming/HuobiSocketClient.java" timestamp="1445704035417">
         <mark key="'" line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/projects/bitpress/src/bitpress/core.clj" timestamp="1447563267482">
-        <mark key="[" line="18" column="38" />
+      <file name="$USER_HOME$/Dropbox/projects/bitpress/src/bitpress/core.clj" timestamp="1447566663711">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/streaming/HuobiStreamingExchangeService.java" timestamp="1445704150640">
         <mark key="'" line="26" column="13" />
@@ -15,6 +18,9 @@
         <mark key="]" line="35" column="101" />
         <mark key="^" line="35" column="86" />
         <mark key="." line="35" column="86" />
+      </file>
+      <file name="/REPL.clj" timestamp="1447565792339">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/streaming/HuobiSocket.java" timestamp="1445703974989">
         <mark key="'" line="30" column="0" />
@@ -40,22 +46,54 @@
       <jump line="94" column="19" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/streaming/HuobiStreamingExchangeService.java" />
       <jump line="2" column="56" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/streaming/HuobiStreamingExchangeService.java" />
       <jump line="26" column="13" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/streaming/HuobiStreamingExchangeService.java" />
+      <jump line="12" column="24" filename="$USER_HOME$/Dropbox/projects/bitpress/src/bitpress/core.clj" />
+      <jump line="30" column="32" filename="$USER_HOME$/Dropbox/projects/bitpress/src/bitpress/core.clj" />
+      <jump line="31" column="31" filename="$USER_HOME$/Dropbox/projects/bitpress/src/bitpress/core.clj" />
+      <jump line="29" column="0" filename="$USER_HOME$/Dropbox/projects/bitpress/src/bitpress/core.clj" />
+      <jump line="26" column="0" filename="$USER_HOME$/Dropbox/projects/bitpress/src/bitpress/core.clj" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>Websocket_SslUri</text>
-      </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>clojure</text>
       </register>
       <register name="/" type="4">
         <text>Websocket</text>
+      </register>
+      <register name="0" type="4">
+        <text>Websocket_SslUri</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CihkZWYgbmVpZ2hib3JzIFtkZWx0YXMgc2l6ZSB5eF0KICAoZmlsdGVyICMoZXZlcnk/IChmbiBbeV0gKDwgLTEgeSBzaXplKSkgeXMpCiAgICAgICAgICAobWFwICModmVjIChtYXAgKyB5eCAlKSkgZGVsdGFzKSkpCg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>clojure</text>
+      </register>
+      <register name="4" type="4">
+        <text>.</text>
+      </register>
+      <register name="5" type="4">
+        <text>core</text>
+      </register>
+      <register name="6" type="4">
+        <text>.</text>
+      </register>
+      <register name="7" type="4">
+        <text>async</text>
+      </register>
+      <register name="8" type="4">
+        <text>.</text>
+      </register>
+      <register name="9" type="4">
+        <text>impl</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -74,13 +112,18 @@
         <entry>Huobi</entry>
         <entry>Websocket</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
