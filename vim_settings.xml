@@ -111,9 +111,7 @@
         <entry>Huobi</entry>
         <entry>Websocket</entry>
       </history-search>
-      <history-cmd>
-        <entry>w</entry>
-      </history-cmd>
+      <history-cmd />
       <history-expr />
       <history-input />
     </history>
