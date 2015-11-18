@@ -6,11 +6,12 @@
       <file name="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/streaming/HuobiSocketClient.java" timestamp="1445704035417">
         <mark key="'" line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/projects/bitpress/src/bitpress/core.clj" timestamp="1447566663711">
+      <file name="$USER_HOME$/Dropbox/projects/bitpress/src/bitpress/core.clj" timestamp="1447824951103">
         <mark key="'" line="26" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+        <mark key="[" line="13" column="81" />
+        <mark key="]" line="14" column="11" />
+        <mark key="." line="14" column="11" />
+        <mark key="^" line="14" column="11" />
       </file>
       <file name="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/streaming/HuobiStreamingExchangeService.java" timestamp="1445704150640">
         <mark key="'" line="26" column="13" />
@@ -54,7 +55,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIChzL2Nvbm5lY3QgZXhjaGFuZ2UgY2hhbm5lbCkK</text>
       </register>
       <register name="-" type="4">
         <text>clojure</text>
@@ -66,31 +67,31 @@
         <text>Websocket_SslUri</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIChzL2Nvbm5lY3QgZXhjaGFuZ2UgY2hhbm5lbCkK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CihkZWYgbmVpZ2hib3JzIFtkZWx0YXMgc2l6ZSB5eF0KICAoZmlsdGVyICMoZXZlcnk/IChmbiBbeV0gKDwgLTEgeSBzaXplKSkgeXMpCiAgICAgICAgICAobWFwICModmVjIChtYXAgKyB5eCAlKSkgZGVsdGFzKSkpCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>clojure</text>
       </register>
-      <register name="4" type="4">
-        <text>.</text>
-      </register>
       <register name="5" type="4">
-        <text>core</text>
+        <text>.</text>
       </register>
       <register name="6" type="4">
-        <text>.</text>
+        <text>core</text>
       </register>
       <register name="7" type="4">
-        <text>async</text>
-      </register>
-      <register name="8" type="4">
         <text>.</text>
       </register>
+      <register name="8" type="4">
+        <text>async</text>
+      </register>
       <register name="9" type="4">
-        <text>impl</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
