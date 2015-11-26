@@ -28,6 +28,7 @@
       <file name="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/streaming/HuobiExchangeStreamingConfiguration.java" timestamp="1445703970279">
         <mark key="'" line="9" column="22" />
       </file>
+      <file name="$USER_HOME$/Dropbox/baidu/indev/ad_mt/data_generation/wise_search_results/filter_with_tf.py" timestamp="1447862824800" />
     </filemarks>
     <jumps>
       <jump line="9" column="22" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/streaming/HuobiExchangeStreamingConfiguration.java" />
@@ -122,6 +123,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
