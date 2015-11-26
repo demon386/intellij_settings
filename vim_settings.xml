@@ -22,13 +22,18 @@
       <file name="/REPL.clj" timestamp="1447565792339">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/projects/kotlin_learn/src/main.kt" timestamp="1448517987034">
+        <mark key="[" line="9" column="9" />
+        <mark key="]" line="9" column="10" />
+        <mark key="^" line="9" column="10" />
+        <mark key="." line="9" column="10" />
+      </file>
       <file name="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/streaming/HuobiSocket.java" timestamp="1445703974989">
         <mark key="'" line="30" column="0" />
       </file>
       <file name="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/streaming/HuobiExchangeStreamingConfiguration.java" timestamp="1445703970279">
         <mark key="'" line="9" column="22" />
       </file>
-      <file name="$USER_HOME$/Dropbox/baidu/indev/ad_mt/data_generation/wise_search_results/filter_with_tf.py" timestamp="1447862824800" />
     </filemarks>
     <jumps>
       <jump line="9" column="22" filename="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/streaming/HuobiExchangeStreamingConfiguration.java" />
@@ -55,10 +60,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIChzL2Nvbm5lY3QgZXhjaGFuZ2UgY2hhbm5lbCkK</text>
+        <text encoding="base64">ZnVuIG15c3VtKGE6IEludCwgKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>clojure</text>
+        <text encoding="base64">Y2xhc3MgICA=</text>
       </register>
       <register name="/" type="4">
         <text>Websocket</text>
@@ -67,31 +72,31 @@
         <text>Websocket_SslUri</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIChzL2Nvbm5lY3QgZXhjaGFuZ2UgY2hhbm5lbCkK</text>
+        <text encoding="base64">ZnVuIG15c3VtKGE6IEludCwgKQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">Y2xhc3MgICA=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CihkZWYgbmVpZ2hib3JzIFtkZWx0YXMgc2l6ZSB5eF0KICAoZmlsdGVyICMoZXZlcnk/IChmbiBbeV0gKDwgLTEgeSBzaXplKSkgeXMpCiAgICAgICAgICAobWFwICModmVjIChtYXAgKyB5eCAlKSkgZGVsdGFzKSkpCg==</text>
+      <register name="3" type="4">
+        <text>sum(1, 2)</text>
       </register>
       <register name="4" type="4">
-        <text>clojure</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="4">
-        <text>.</text>
+        <text encoding="base64">QQogICAgIA==</text>
       </register>
       <register name="6" type="4">
-        <text>core</text>
+        <text encoding="base64">ZGVmIA==</text>
       </register>
       <register name="7" type="4">
-        <text>.</text>
+        <text>sum</text>
       </register>
       <register name="8" type="4">
-        <text>async</text>
+        <text>(a</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text encoding="base64">OiA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -113,7 +118,9 @@
         <entry>Huobi</entry>
         <entry>Websocket</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
@@ -126,9 +133,6 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
