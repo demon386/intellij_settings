@@ -22,12 +22,12 @@
       <file name="/REPL.clj" timestamp="1447565792339">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/projects/kotlin_learn/src/main.kt" timestamp="1448525454534">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="17" />
-        <mark key="^" line="0" column="17" />
-        <mark key="." line="0" column="17" />
+      <file name="$USER_HOME$/Dropbox/projects/kotlin_learn/src/main.kt" timestamp="1448528668743">
+        <mark key="'" line="26" column="17" />
+        <mark key="[" line="26" column="19" />
+        <mark key="]" line="26" column="25" />
+        <mark key="^" line="26" column="25" />
+        <mark key="." line="26" column="25" />
       </file>
       <file name="$USER_HOME$/playground/XChange/xchange-huobi/src/main/java/com/xeiam/xchange/huobi/service/streaming/HuobiSocket.java" timestamp="1445703974989">
         <mark key="'" line="30" column="0" />
@@ -58,56 +58,67 @@
       <jump line="31" column="31" filename="$USER_HOME$/Dropbox/projects/bitpress/src/bitpress/core.clj" />
       <jump line="29" column="0" filename="$USER_HOME$/Dropbox/projects/bitpress/src/bitpress/core.clj" />
       <jump line="26" column="0" filename="$USER_HOME$/Dropbox/projects/bitpress/src/bitpress/core.clj" />
-      <jump line="8" column="0" filename="$USER_HOME$/Dropbox/projects/kotlin_learn/src/main.kt" />
+      <jump line="4" column="2" filename="$USER_HOME$/Dropbox/projects/kotlin_learn/src/main.kt" />
+      <jump line="3" column="13" filename="$USER_HOME$/Dropbox/projects/kotlin_learn/src/main.kt" />
+      <jump line="0" column="17" filename="$USER_HOME$/Dropbox/projects/kotlin_learn/src/main.kt" />
+      <jump line="9" column="4" filename="$USER_HOME$/Dropbox/projects/kotlin_learn/src/main.kt" />
+      <jump line="8" column="23" filename="$USER_HOME$/Dropbox/projects/kotlin_learn/src/main.kt" />
+      <jump line="21" column="16" filename="$USER_HOME$/Dropbox/projects/kotlin_learn/src/main.kt" />
+      <jump line="10" column="8" filename="$USER_HOME$/Dropbox/projects/kotlin_learn/src/main.kt" />
+      <jump line="16" column="4" filename="$USER_HOME$/Dropbox/projects/kotlin_learn/src/main.kt" />
+      <jump line="17" column="4" filename="$USER_HOME$/Dropbox/projects/kotlin_learn/src/main.kt" />
+      <jump line="19" column="8" filename="$USER_HOME$/Dropbox/projects/kotlin_learn/src/main.kt" />
+      <jump line="22" column="8" filename="$USER_HOME$/Dropbox/projects/kotlin_learn/src/main.kt" />
+      <jump line="26" column="17" filename="$USER_HOME$/Dropbox/projects/kotlin_learn/src/main.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>larn</text>
+        <text>k, v</text>
       </register>
       <register name="-" type="4">
-        <text>larn</text>
+        <text>k, v</text>
       </register>
       <register name="/" type="4">
-        <text>Websocket</text>
+        <text>println</text>
       </register>
       <register name="0" type="4">
         <text>Websocket_SslUri</text>
       </register>
       <register name="1" type="4">
-        <text>larn</text>
+        <text>k, v</text>
       </register>
-      <register name="2" type="4">
-        <text>ton</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGZvciAoaywgdiBpbiBtKSB7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZnVuIG15c3VtKGE6IEludCwgKQo=</text>
+      <register name="3" type="4">
+        <text>:</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">Y2xhc3MgICA=</text>
+        <text encoding="base64">dwogICAgICAgICAgICAgICAg</text>
       </register>
       <register name="5" type="4">
-        <text>sum(1, 2)</text>
+        <text>k</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">PC0g</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">QQogICAgIA==</text>
+        <text>ll</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ZGVmIA==</text>
+        <text>$</text>
       </register>
       <register name="9" type="4">
-        <text>sum</text>
+        <text>lAam</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Websocket</last-search>
+      <last-search>println</last-search>
       <last-offset />
-      <last-pattern>Websocket</last-pattern>
+      <last-pattern>println</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -119,6 +130,9 @@
         <entry>websoc</entry>
         <entry>Huobi</entry>
         <entry>Websocket</entry>
+        <entry>obj</entry>
+        <entry>cases</entry>
+        <entry>println</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
