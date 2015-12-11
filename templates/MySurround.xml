@@ -33,8 +33,6 @@
       <option name="KOTLIN_COMMENT" value="true" />
       <option name="HAML" value="true" />
       <option name="CoffeeScript" value="true" />
-      <option name="Python" value="true" />
-      <option name="Django" value="true" />
       <option name="OTHER" value="true" />
     </context>
   </template>
@@ -72,8 +70,6 @@
       <option name="KOTLIN_COMMENT" value="true" />
       <option name="HAML" value="true" />
       <option name="CoffeeScript" value="true" />
-      <option name="Python" value="true" />
-      <option name="Django" value="true" />
       <option name="OTHER" value="true" />
     </context>
   </template>
@@ -111,8 +107,6 @@
       <option name="KOTLIN_COMMENT" value="true" />
       <option name="HAML" value="true" />
       <option name="CoffeeScript" value="true" />
-      <option name="Python" value="true" />
-      <option name="Django" value="true" />
       <option name="OTHER" value="true" />
     </context>
   </template>
