@@ -25,14 +25,6 @@
       <option name="JSX_HTML" value="true" />
       <option name="JS_STATEMENT" value="true" />
       <option name="TypeScript" value="true" />
-      <option name="CoffeeScript" value="true" />
-      <option name="GROOVY" value="true" />
-      <option name="GROOVY_EXPRESSION" value="true" />
-      <option name="GROOVY_STATEMENT" value="true" />
-      <option name="GROOVY_DECLARATION" value="true" />
-      <option name="MAVEN" value="true" />
-      <option name="ACTION_SCRIPT" value="true" />
-      <option name="MXML" value="true" />
       <option name="KOTLIN" value="true" />
       <option name="KOTLIN_TOPLEVEL" value="true" />
       <option name="KOTLIN_STATEMENT" value="true" />
@@ -40,6 +32,7 @@
       <option name="KOTLIN_EXPRESSION" value="true" />
       <option name="KOTLIN_COMMENT" value="true" />
       <option name="HAML" value="true" />
+      <option name="CoffeeScript" value="true" />
       <option name="Python" value="true" />
       <option name="Django" value="true" />
       <option name="OTHER" value="true" />
@@ -71,14 +64,6 @@
       <option name="JSX_HTML" value="true" />
       <option name="JS_STATEMENT" value="true" />
       <option name="TypeScript" value="true" />
-      <option name="CoffeeScript" value="true" />
-      <option name="GROOVY" value="true" />
-      <option name="GROOVY_EXPRESSION" value="true" />
-      <option name="GROOVY_STATEMENT" value="true" />
-      <option name="GROOVY_DECLARATION" value="true" />
-      <option name="MAVEN" value="true" />
-      <option name="ACTION_SCRIPT" value="true" />
-      <option name="MXML" value="true" />
       <option name="KOTLIN" value="true" />
       <option name="KOTLIN_TOPLEVEL" value="true" />
       <option name="KOTLIN_STATEMENT" value="true" />
@@ -86,6 +71,7 @@
       <option name="KOTLIN_EXPRESSION" value="true" />
       <option name="KOTLIN_COMMENT" value="true" />
       <option name="HAML" value="true" />
+      <option name="CoffeeScript" value="true" />
       <option name="Python" value="true" />
       <option name="Django" value="true" />
       <option name="OTHER" value="true" />
@@ -117,14 +103,6 @@
       <option name="JSX_HTML" value="true" />
       <option name="JS_STATEMENT" value="true" />
       <option name="TypeScript" value="true" />
-      <option name="CoffeeScript" value="true" />
-      <option name="GROOVY" value="true" />
-      <option name="GROOVY_EXPRESSION" value="true" />
-      <option name="GROOVY_STATEMENT" value="true" />
-      <option name="GROOVY_DECLARATION" value="true" />
-      <option name="MAVEN" value="true" />
-      <option name="ACTION_SCRIPT" value="true" />
-      <option name="MXML" value="true" />
       <option name="KOTLIN" value="true" />
       <option name="KOTLIN_TOPLEVEL" value="true" />
       <option name="KOTLIN_STATEMENT" value="true" />
@@ -132,6 +110,7 @@
       <option name="KOTLIN_EXPRESSION" value="true" />
       <option name="KOTLIN_COMMENT" value="true" />
       <option name="HAML" value="true" />
+      <option name="CoffeeScript" value="true" />
       <option name="Python" value="true" />
       <option name="Django" value="true" />
       <option name="OTHER" value="true" />
